@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chisom Blessing
 
 ## 📌 About Me 
-I'm a **Data Analyst** with 2 years experience
+I'm a **Data Analyst** with 2 years experience.
 I'm passionate about helping businesses unlock the full potential of their data.
 I work with tools like **EXcel, Power BI, SQL** to turn messy data into clear stories.
 
