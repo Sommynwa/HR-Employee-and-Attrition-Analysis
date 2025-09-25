@@ -19,3 +19,6 @@ I work with tools like **EXcel, Power BI, SQL** to turn messy data into clear st
 ---
 
 ⭐ Feel free to reach out if you'd like to collaborate or discuss data
+
+
+# HR Employee and Attrition Analysis
